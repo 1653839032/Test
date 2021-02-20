@@ -1,0 +1,2 @@
+wnclude <iostream>
+using namespace std;
